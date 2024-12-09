@@ -16,5 +16,5 @@ This project showcases a 𝐟𝐮𝐥𝐥𝐲 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢�
 Clone the repository.
 Open the index.html file in your browser. 🚀
 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗠𝗲:
-📧 𝐄𝐦𝐚𝐢𝐥: rathish1227@gmail.com
-👔 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧: RathishPavithran
+📧 𝐄𝐦𝐚𝐢𝐥: [rathish1227@gmail.com](mailto:rathish1227@gmail.com)
+👔 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧: [RathishPavithran](https://www.linkedin.com/in/rathish-pavithran/)
