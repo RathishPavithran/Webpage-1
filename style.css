@@ -16,3 +16,39 @@
     background-color: black;
     border: 2px solid white;
   }
+     /* BMI Calculator Table */
+  
+  .table th, .table td {
+    border: 1px dotted #0c0c0c; /* Default dotted borders */
+    padding: 10px;
+    text-align: center;
+  }
+  .table th {
+    border-bottom: 2px solid #292929; 
+  }
+  .middle-line td {
+    border-top: 2px solid #000; /* Thicker solid border for the middle line */
+  }
+
+  .table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  /* .table th,
+  .table td {
+    border-top: 1px dotted #404040; 
+    border-bottom: 1px dotted #404040; 
+    border-left: none; 
+    border-right: none;
+    padding: 10px;
+    text-align: left;
+  }
+
+  .middle-line td {
+    border-top: 2px solid #1a1a1a; 
+  }
+
+  .table th {
+    border-bottom: 2px solid #292929; 
+  } */
