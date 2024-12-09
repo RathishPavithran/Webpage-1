@@ -5,6 +5,7 @@ This project showcases a 𝐟𝐮𝐥𝐥𝐲 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢�
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲:📁🔧
 
 𝗶𝗻𝗱𝗲𝘅.𝗵𝘁𝗺𝗹 : The main HTML file of the website.
+
 𝗮𝘀𝘀𝗲𝘁𝘀/ : Directory containing images and other assets.
 
 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:🔑✨
